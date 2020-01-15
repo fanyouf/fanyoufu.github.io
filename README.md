@@ -1,2 +1,1 @@
-# fanyoufu.github.io
-个人主页
+# newshop-pages
